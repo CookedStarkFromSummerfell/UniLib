@@ -1,3 +1,3 @@
 # UniLib
 
-## Basic calculation for Solar View app
+## Basic calculations for Solar View app
