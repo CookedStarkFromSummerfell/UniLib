@@ -1,3 +1,3 @@
-# UniLib
+# UniLib (discontinued)
 
-## Basic calculations for Solar View app
+## Calculation and conversion library for Solar View app
